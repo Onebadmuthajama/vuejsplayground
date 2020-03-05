@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.0689d6b00164e4d2462e502650f5be97.js"
+  "/hellovuejs/precache-manifest.47ea8350c6449ed635213cb06618917e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hellovuejs"});
